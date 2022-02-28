@@ -1,14 +1,18 @@
-# Parallel programming
-> 파이썬을 통한 멀티 스레딩 및 멀티 프로세싱 프로그래밍을 학습한다.
+# Python Parallel
+<br><br>
 
+<div align=center>
+    <strong># Python</strong> &nbsp;
+    <strong># Asyncio</strong> &nbsp;
+    <strong># pyopencl</strong> &nbsp;
+    <strong># multiprocessing</strong> &nbsp;
+    <br><br>
+</div>
+<br>
 
-
-현재 진행하고 있는 프로젝트에서 멀티 스레딩/프로세싱을 도입하기 위해서 학습한 실습 코드들입니다.
-
-
-
-## Indexes
-
+## What is this?
+파이썬을 통한 멀티 스레딩 / 프로세싱 실습 소스입니다.
+### Indexes
 1. thread_and_process
 2. parallel
 3. thread_life
@@ -22,15 +26,32 @@
 11. gpu_using
 12. selected_solution
 
+<br>
 
+## Dependency
+```shell
+python 3.X
+```
+<br>
 
-## Meta
+## How to use
+```shell
+python <Specific_File>.py
+```
+<br>
 
+## About Me
 🙋🏻‍♂️ Name: 837477
 
 📧 E-mail: 8374770@gmail.com
 
 🐱 Github: https://github.com/837477
 
-📔 Blog: https://837477.github.io
+<br>
 
+## Contributing
+1. Fork this repository
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -m 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
